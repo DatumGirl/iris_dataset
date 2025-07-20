@@ -229,9 +229,7 @@ For support and questions:
 - **Email**: Contact via GitHub profile
 - **Documentation**: Check the Jupyter notebook for detailed explanations
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
